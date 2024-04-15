@@ -1,0 +1,25 @@
+body {font-family: Arial, sans-serif;
+color : #333;
+margin: 20px;
+background-color: beige;
+}
+
+h1, h2, h3{font-family: Georgia, 'Times New Roman', Times, serif;
+color: #007bff;
+margin-bottom: 1.5em;
+}
+p{
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+a{
+    color:#007bff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+a:hover{
+    color: #0056b3;
+    background-color : #eee;
+}
